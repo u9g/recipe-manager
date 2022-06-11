@@ -1,0 +1,17 @@
+{
+  "name": "data-collector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "u9g <winworkswow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.3.0",
+    "mineflayer-collectblock": "^1.4.1",
+    "standard": "^17.0.0"
+  }
+}
